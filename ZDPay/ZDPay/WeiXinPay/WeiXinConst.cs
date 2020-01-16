@@ -14,44 +14,44 @@ namespace ZDPay.WeiXinPay
         /// <summary>
         /// 绑定支付的APPID
         /// </summary>
-        public const string WX_APPID = "wx0dae61610000bbb9";
+        public const string WX_APPID = "";
         /// <summary>
         /// 商户号
         /// </summary>
-        public const string WX_MCHID = "1520777411";
+        public const string WX_MCHID = "";
         /// <summary>
         /// 商户支付密钥
         /// </summary>
-        //public const string WX_KEY = "962332b824cb446eb8d3bdb808cebb35";
+        //public const string WX_KEY = "";
         /// <summary>
         /// 商户支付密钥
         /// </summary>
-        public const string WX_KEY_TEST = "6114cb89b632409b895f5ed2bb9fc125";
+        public const string WX_KEY_TEST = "";
         /// <summary>
         /// 公众帐号secert（仅JSAPI支付的时候需要配置
         /// </summary>
-        //public const string WX_APPSECRET = "defca892b87bc5f8a730a30ce9c4c0bb";
+        //public const string WX_APPSECRET = "";
         /// <summary>
         /// 回调地址测试
         /// </summary>
-        public const string WX_NOTIFY_URL_TEST = "http://zdtest.9wins.cn/api/V1/WxNotifyUrl";
+        public const string WX_NOTIFY_URL_TEST = "";
         /// <summary>
         /// 回调地址正式
         /// </summary>
-        //public const string WX_NOTIFY_URL = "http://zddemo.9wins.cn/api/V1/WxNotifyUrl";
+        //public const string WX_NOTIFY_URL = "";
         // <!-- 微信支付App支付 -->
         /// <summary>
         /// APPID：绑定支付的APPID（必须配置）test
         /// </summary>
-        public const string APPWX_APPID_TEST = "wx0dae61610000bbb9";
+        public const string APPWX_APPID_TEST = "";
         /// <summary>
         /// MCHID：商户号（必须配置）test
         /// </summary>
-        public const string APPWX_MCHID_TEST = "1520777411";
+        public const string APPWX_MCHID_TEST = "";
         /// <summary>
         /// KEY：商户支付密钥，参考开户邮件设置（必须配置）test
         /// </summary>
-        public const string APPWX_KEY_TEST = "6114cb89b632409b895f5ed2bb9fc125";
+        public const string APPWX_KEY_TEST = "";
 
         #endregion
         /// <summary>
@@ -208,15 +208,15 @@ namespace ZDPay.WeiXinPay
         /// <summary>
         /// APPID：绑定支付的APPID（必须配置）
         /// </summary>
-        //public const string APPWX_APPID = "wxcf51531d059dcdf0";
+        //public const string APPWX_APPID = "";
         /// <summary>
         /// MCHID：商户号（必须配置）
         /// </summary>
-        //public const string APPWX_MCHID = "1519946691";
+        //public const string APPWX_MCHID = "";
         /// <summary>
         /// KEY：商户支付密钥，参考开户邮件设置（必须配置）
         /// </summary>
-        //public const string APPWX_KEY = "962332b824cb446eb8d3bdb808cebb35";
+        //public const string APPWX_KEY = "";
         /// <summary>
         /// 网站域名
         /// </summary>

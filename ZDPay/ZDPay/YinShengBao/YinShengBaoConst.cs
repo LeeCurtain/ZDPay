@@ -129,27 +129,27 @@ namespace ZDPay.YinShengBao
         /// <summary>
         /// 商户在银生宝注册用户的客户编号
         /// </summary>
-        // public const string accountId = "1120181214104458001";//1120130523134348001  1120180309104953001
+        // public const string accountId = "";//  
         /// <summary>
         /// 商户密匙
         /// </summary>
-        //public const string key = "123456abc";//123456abc 
+        //public const string key = "";// 
         /// <summary>
         /// 结果通知地址代付
         /// </summary>
-        public const string responseUrlD_Test = "http://zdtest.9wins.cn/api/V1/OrderResult";
+        public const string responseUrlD_Test = ";
         /// <summary>
         /// 结果通知地址代付
         /// </summary>
-       // public const string responseUrlD = "http://zddemo.9wins.cn/api/V1/OrderResult";
+       // public const string responseUrlD = "";
         /// <summary>
         /// 结果通知地址快捷支付
         /// </summary>
-        public const string responseUrlR_Test = "http://zdtest.9wins.cn/api/V1/UserOrderRefun";
+        public const string responseUrlR_Test = "";
         /// <summary>
         /// 结果通知地址快捷支付
         /// </summary>
-        //public const string responseUrlR = "http://zddemo.9wins.cn/api/V1/UserOrderRefun";
+        //public const string responseUrlR = "";
 
     }
 }
